@@ -28,4 +28,4 @@ Os principais componentes deste repositório são:
 
 ## Como Executar os Notebooks
 
-Os notebooks foram originalmente desenvolvidos no *Databricks Community*, mas podem ser executados em outros ambientes (como Jupyter Notebook ou Google Colab), desde que sejam realizados ajustes nos caminhos dos arquivos de leitura e escrita.
+Os notebooks foram originalmente desenvolvidos no *Databricks Community*, mas podem ser executados em outros ambientes (como Jupyter Notebook ou Google Colab), desde que sejam realizados ajustes nos caminhos dos arquivos de leitura e escrita, além de ajustes no código para modificar funções nativas do databricks.
